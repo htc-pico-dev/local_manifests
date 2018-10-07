@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" remote="github" revision="android-7.1" />
+
   <project name="htc-pico-dev/android_device_htc_pico" path="device/htc/pico" remote="github" />
   <project name="htc-pico-dev/android_kernel_htc_pico" path="kernel/htc/pico" remote="github" />
   <project name="htc-pico-dev/proprietary_vendor_htc_pico" path="vendor/htc/pico" remote="github" />
